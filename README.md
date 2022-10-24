@@ -79,3 +79,4 @@ Multi-sided marketplace (MSM) app (think Fiverr, Upwork, Uber, etc.) This app wi
 - [x] Aubrey Finkelstein
 - [x] Zach Grammon
 - [x] Jin Choo
+- [x] Emerson Day
