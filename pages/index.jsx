@@ -1,5 +1,4 @@
-import React from 'react';
-// import { useAuth } from '../context/Auth';
+import { useAuth } from '../context/Auth';
 import Counter from '../components/Counter';
 import { ProtectedRoute } from '../components/protectedPage';
 import Logout from '../components/Logout';
