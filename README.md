@@ -86,4 +86,4 @@ Multi-sided marketplace (MSM) app (think Fiverr, Upwork, Uber, etc.) This app wi
 - [ ] Ian Mark
 - [ ] Livia Dobai
 - [ ] Lounas Brahim
-- [ ] Mahdi
+- [x] Mahdi
