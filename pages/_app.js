@@ -1,9 +1,10 @@
-import "../styles/index.css";
-import "../styles/App.css";
-import "@fortawesome/fontawesome-svg-core/styles.css";
-import { AuthProvider } from "../context/Auth";
-import { Provider } from "react-redux";
-import { wrapper } from "../redux/store";
+import React from 'react';
+import '../styles/index.css';
+import '../styles/App.css';
+import '@fortawesome/fontawesome-svg-core/styles.css';
+import { AuthProvider } from '../context/Auth';
+import { Provider } from 'react-redux';
+import { wrapper } from '../redux/store';
 
 const App = ({ Component, pageProps }) => {
   const { store } = wrapper.useWrappedStore(pageProps);
