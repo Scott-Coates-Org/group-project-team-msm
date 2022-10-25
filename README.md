@@ -76,14 +76,26 @@ Multi-sided marketplace (MSM) app (think Fiverr, Upwork, Uber, etc.) This app wi
 ## Team Members Roll Call
 
 ### Team Orders
+
 - [x] Aubrey Finkelstein
 - [x] Zach Grammon
 - [x] Jin Choo
 - [x] Emerson Day
+- [x] Remus Risnoveanu
 
 ### Team Service Provider (SP)
+
 - [x] Abdul Rehman
 - [ ] Ian Mark
 - [ ] Livia Dobai
 - [x] Lounas Brahim
-- [ ] Mahdi
+- [x] Mahdi
+
+
+### Team Customer
+
+- [ ] Brandon Bailey
+- [ ] Kelani
+- [ ] Michael Ikechukwu
+- [x] Rustem M
+- [ ] Waldo Lavaut

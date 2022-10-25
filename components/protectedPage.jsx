@@ -12,14 +12,5 @@ export const ProtectedRoute = ({ children }) => {
     }
   }, [isAuthenticated, isLoaded, isLoading]);
 
-  return (
-    <>
-      {isAuthenticated ? (
-        children
-      ) : (
-        <div>
-        </div>
-      )}
-    </>
-  );
+  return <>{isAuthenticated ? children : <div></div>}</>;
 };

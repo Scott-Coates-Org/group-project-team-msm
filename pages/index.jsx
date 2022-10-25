@@ -12,7 +12,7 @@ const Home = () => {
         <p>
           Edit <code>pages/index.js</code> and save to reload.
         </p>
-          <Users />
+        <Users />
         <Counter />
         <p>
           <Logout />

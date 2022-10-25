@@ -6,7 +6,7 @@ const Users = () => {
 
   return (
     <div>
-      {loading === "succeeded" && (
+      {loading === 'succeeded' && (
         <div>
           <table className={styles.users}>
             <thead>

@@ -31,9 +31,9 @@ const Login = () => {
         <img src="/images/googlelogo.png" alt="Google Logo" />
         Continue with Google
       </button>
-      {user && "user: " + JSON.stringify(user, null, 2)}
-      {loading && "loading:" + loading}
-      {error && "error: " + JSON.stringify(error, Object.getOwnPropertyNames(error), 2)}
+      {user && 'user: ' + JSON.stringify(user, null, 2)}
+      {loading && 'loading:' + loading}
+      {error && 'error: ' + JSON.stringify(error, Object.getOwnPropertyNames(error), 2)}
     </div>
   );
 };

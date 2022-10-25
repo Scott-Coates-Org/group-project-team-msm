@@ -7,7 +7,7 @@ import { logout } from '../redux/authSlice';
 
 const Logout = ({ children }) => {
   const dispatch = useDispatch();
-  const router = useRouter();
+  // const router = useRouter();
   const { clear } = useAuth();
 
   const logoutHandler = () => {
