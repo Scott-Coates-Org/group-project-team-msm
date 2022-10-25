@@ -1,4 +1,3 @@
-import React from 'react';
 import { useEffect } from 'react';
 import { useSignInWithGoogle } from 'react-firebase-hooks/auth';
 import { useDispatch } from 'react-redux';
