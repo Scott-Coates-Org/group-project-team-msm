@@ -1,6 +1,7 @@
 import '../styles/index.css';
 import '../styles/App.css';
 import '@fortawesome/fontawesome-svg-core/styles.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { AuthProvider } from '../context/Auth';
 import { Provider } from 'react-redux';
 import { wrapper } from '../redux/store';
