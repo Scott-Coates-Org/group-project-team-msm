@@ -81,6 +81,7 @@ Multi-sided marketplace (MSM) app (think Fiverr, Upwork, Uber, etc.) This app wi
 - [x] Zach Grammon
 - [x] Jin Choo
 - [x] Emerson Day
+- [x] Remus Risnoveanu
 
 ### Team Service Provider (SP)
 
