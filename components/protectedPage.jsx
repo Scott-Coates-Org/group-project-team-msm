@@ -1,3 +1,4 @@
+import React from 'react';
 import { useRouter } from 'next/router';
 import { useEffect } from 'react';
 import { useAuth } from '../context/Auth';
@@ -12,14 +13,5 @@ export const ProtectedRoute = ({ children }) => {
     }
   }, [isAuthenticated, isLoaded, isLoading]);
 
-  return (
-    <>
-      {isAuthenticated ? (
-        children
-      ) : (
-        <div>
-        </div>
-      )}
-    </>
-  );
+  return <>{isAuthenticated ? children : <div></div>}</>;
 };

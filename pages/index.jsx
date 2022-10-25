@@ -1,4 +1,5 @@
-import { useAuth } from '../context/Auth';
+import React from 'react';
+// import { useAuth } from '../context/Auth';
 import Counter from '../components/Counter';
 import { ProtectedRoute } from '../components/protectedPage';
 import Logout from '../components/Logout';
@@ -12,7 +13,7 @@ const Home = () => {
         <p>
           Edit <code>pages/index.js</code> and save to reload.
         </p>
-          <Users />
+        <Users />
         <Counter />
         <p>
           <Logout />
