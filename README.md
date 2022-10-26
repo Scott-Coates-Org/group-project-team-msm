@@ -86,7 +86,7 @@ Multi-sided marketplace (MSM) app (think Fiverr, Upwork, Uber, etc.) This app wi
 ### Team Service Provider (SP)
 
 - [x] Abdul Rehman
-- [ ] Ian Mark
+- [x] Ian Mark
 - [ ] Livia Dobai
 - [x] Lounas Brahim
 - [x] Mahdi
