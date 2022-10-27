@@ -91,11 +91,10 @@ Multi-sided marketplace (MSM) app (think Fiverr, Upwork, Uber, etc.) This app wi
 - [x] Lounas Brahim
 - [x] Mahdi
 
-
 ### Team Customer
 
 - [ ] Brandon Bailey
 - [ ] Kelani
 - [ ] Michael Ikechukwu
 - [x] Rustem M
-- [ ] Waldo Lavaut
+- [x] Waldo Lavaut
