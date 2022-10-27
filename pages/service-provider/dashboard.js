@@ -6,12 +6,12 @@ import Cashout from '../../components/Cashout';
 
 
 
-const user = 
+// const user =
 
 
 const SPDash = () => {
 
- 
+
 
   return (
     <ProtectedRoute>
