@@ -4,6 +4,8 @@ import { ProtectedRoute } from '../components/protectedPage';
 import Logout from '../components/Logout';
 import Users from '../components/Users';
 
+import { loadStripe } from '@stripe/stripe-js';
+import { Elements } from '@stripe/react-stripe-js';
 const Home = () => {
   return (
     <ProtectedRoute>
